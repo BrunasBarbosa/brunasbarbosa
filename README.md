@@ -8,13 +8,13 @@ I'm a software developer, I love learning about technology and stuff, I'm always
   <img align="center" alt="Bruna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruna-pic" height="110" width="110" style="border-radius:30%;" src="https://i.imgur.com/4h6kBzM.gif">
+  <img align="right" alt="Bruna-pic" height="110" width="110" style="border-radius:50%;" src="https://i.imgur.com/4h6kBzM.gif">
 </div>
 
 ##
 <div align="left" style="display: inline_block;">
   <a href="https://github.com/brunasbarbosa">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=brunasbarbosa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=brunasbarbosa&show_icons=true&theme=light&include_all_commits=false&count_private=true"/>
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasbarbosa&layout=compact&langs_count=7&theme=light"/>
 </div>
 
