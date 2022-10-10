@@ -8,7 +8,7 @@ I'm a software developer, I love learning about technology and stuff, I'm always
   <img align="center" alt="Bruna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruna-pic" height="110" width="110" style="border-radius:50%;" src="https://i.imgur.com/4h6kBzM.gif">
+  <img align="right" alt="Bruna-pic" height="110" width="110" style="border-radius:50%;" src="https://media.discordapp.net/attachments/977710892839993414/1029075464230293584/git-animated.gif?width=585&height=585">
 </div>
 
 ##
