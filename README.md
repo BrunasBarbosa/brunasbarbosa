@@ -12,10 +12,10 @@ I'm a software developer, I love learning about technology and stuff, I'm always
 </div>
 
 ##
-<div align="left" style="display: inline_block">
+<div align="left" style="display: inline_block;">
   <a href="https://github.com/brunasbarbosa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunasbarbosa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasbarbosa&layout=compact&langs_count=7&theme=light"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brunasbarbosa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasbarbosa&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 ##
