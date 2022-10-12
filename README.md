@@ -8,14 +8,14 @@ I'm a software developer, I love learning about technology and stuff, I'm always
   <img align="center" alt="Bruna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruna-pic" height="110" width="110" style="border-radius:50%;" src="https://media.discordapp.net/attachments/977710892839993414/1029075464230293584/git-animated.gif?width=585&height=585">
+  <img align="right" alt="Bruna-pic" height="110" width="110" style="border-radius:50%;" src="https://i.imgur.com/EdiJmXY.gif">
 </div>
 
 ##
 <div align="left" style="display: inline_block;">
   <a href="https://github.com/brunasbarbosa">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=brunasbarbosa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasbarbosa&layout=compact&langs_count=7&theme=light"/>
+   <img height="142em" src="https://github-readme-stats.vercel.app/api?username=brunasbarbosa&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasbarbosa&layout=compact&langs_count=7&theme="/>
 </div>
 
 ##
