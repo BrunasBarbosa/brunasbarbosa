@@ -12,12 +12,5 @@ I'm a software developer, I love learning about technology and stuff, I'm always
 </div>
 
 ##
-<div align="left" style="display: inline_block;">
-  <a href="https://github.com/brunasbarbosa">
-   <img height="142em" src="https://github-readme-stats.vercel.app/api?username=BrunasBarbosa&show_icons=true&theme=light&include_all_commits=&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunasBarbosa&layout=compact&langs_count=7&theme=light"/>
-</div>
-
-##
 <a href="https://www.linkedin.com/in/brunas-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/brunas_barbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23A13A83?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
