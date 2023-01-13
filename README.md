@@ -14,8 +14,8 @@ I'm a software developer, I love learning about technology and stuff, I'm always
 ##
 <div align="left" style="display: inline_block;">
   <a href="https://github.com/brunasbarbosa">
-   <img height="142em" src="https://github-readme-stats.vercel.app/api?username=brunasbarbosa&show_icons=true&theme=light&include_all_commits=&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasbarbosa&layout=compact&langs_count=7&theme=light"/>
+   <img height="142em" src="https://github-readme-stats.vercel.app/api?username=BrunasBarbosa&show_icons=true&theme=light&include_all_commits=&count_private=true"/>
+  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunasBarbosa&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 ##
